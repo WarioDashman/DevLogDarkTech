@@ -4,7 +4,7 @@ Voor deze sprint waren we voornamelijk bezig geweest met het brainstormen van ho
 
 Ik zelf ben verantwoordelijk om met ideeën te komen van hoe de prompts aan het einde eruit gaan zien en op basis daarvan ziet er zo uit:
 
-<img width="952" height="823" alt="afbeelding" src="https://github.com/user-attachments/assets/34af597f-9c50-4d40-a591-ebb53fdb4591" />
+<img width="500" alt="afbeelding" src="https://github.com/user-attachments/assets/34af597f-9c50-4d40-a591-ebb53fdb4591" />
 klein omschrijving van hoe zo'n prompt er ongeveer uitziet (ook printbaar)
 
 Hierin staat beschreven wie de vraag stelde, de foto, die gemaakt is op de camera, en de details, zoals naam, leeftijd en afkomst die je hebt achtergelaten. Vervolgens zie je de vraag die je hebt gesteld, het antwoord dat hij je normaal geeft, om dan ten slotte te eindigen met wat de AI echt van je denkt, gebaseerd op stereotypen die soms racistisch of losgeslagen overkomen.
@@ -13,10 +13,10 @@ Dus op basis daarvan, ga ik nu vertellen hoe mijn eerste sprint eigenlijk ging.
 
 Voor de groep zelf zijn we druk bezig geweest met het omzetten van het idee naar de werkelijkheid, en in de laatste dagen van de sprint, hebben we on ingezet bij het maken van prototypes voor onze product
 
-<img width="1161" height="2514" alt="20261008_133109" src="https://github.com/user-attachments/assets/ff37b48c-73e0-4578-ab9d-2092ae7adf73" />
+<img width="700" alt="20261008_133109" src="https://github.com/user-attachments/assets/ff37b48c-73e0-4578-ab9d-2092ae7adf73" />
 
 
-<img width="1150" height="2044" alt="afbeelding" src="https://github.com/user-attachments/assets/57f47779-8e4f-4d2b-b8d2-577bc6318b20" />
+<img width="600" alt="afbeelding" src="https://github.com/user-attachments/assets/57f47779-8e4f-4d2b-b8d2-577bc6318b20" />
 
 ### Wat is het doel van mijn prototype
 
