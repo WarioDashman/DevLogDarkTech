@@ -21,3 +21,6 @@ Voor sprint 2 heb ik voornamelijk gewerkt aan verdere designs voor onze eindprod
 ## Wat ga ik doen voor de volgende sprint
 
 
+<video controls width="700">
+ 
+</video>
