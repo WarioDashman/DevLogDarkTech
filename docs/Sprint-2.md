@@ -11,21 +11,21 @@ Voordat jeeen chatbot kan gaan maken, moet je eerst erachter kunnen komen, welke
 
 ## Society festival 5.0
 
-De boot zelf was zeker en succces geworden, waar we gebruik hebbben kunnen maken van een van onze laptops om de chatbot te laten draaien, een microfoon om zo fysiek met de bot te praten,de printer om zo je AI-profiel te ontvangen van de AI, en totk slot een camera, die we later gaan gebruiken voor facial recognition.  
+De boot zelf was zeker en succces geworden, waar we gebruik hebbben kunnen maken van een van onze laptops om de chatbot te laten draaien, een microfoon om zo fysiek met de bot te praten,de printer om zo je AI-profiel te ontvangen van de AI, en totk slot een camera, die we later gaan gebruiken voor facial recognition, maar op dat moment niet gereed was voor gebruik. we hebben zeker tien testen kunnen uitvoeren en de reviews waren overwegend positief. Het idee zelf was zeker en mooie en duidelijke, waarbij we zo het beeld heben kunnen delen met de gebruikers zelf:hen tot nadenken zetten wat er met hun data gebeurd en wat AI er precies mee kan doen. De tips variëerden van de bot, die iets meer vloeiender het gesprek moet aangaan, tot de sessies zelf die misschien enigzins wat korter konden.
 
 
 ## Wat ging er goed 
-
+ het feit dat ik de initiatief nam om hetgen wat gedaan moest worden, ondanks dat ik op dit moment alleen og maar een tablet had, en dat ik snel erachter kwam hoe de design of de promts eruit zouden gaan zien voor de prototype
 
 ## Wat ging er niet goed
 
+Het feit dat ik het eerlijkgezegd vrij moeilijk vond om een goede flowte kunnen vinden voor het gesprek zelf en dat ik dit pas ophet laatste moment heb gedaan en niet ver van tevoren, zodat het eventueel aangepast kon worden
 
 ## Wat kan er beter
 
+Allereerst wil vanaf het begin van de sprint bezig zijn met wat er gedaan kan worden en neem ik taken zo snel mogelijk op me,om zo te voorkomen dat iedereen al doet wat nosig is, terwijl ik slechts weinig doe en zorg ik er voor dat er temninste een werkende vervanger is voor als er op een of andere manier iets fout gaat
 
 ## Wat ga ik doen voor de volgende sprint
+Mijn doel voor sprint 3 is dat ik de flow van de gesprekken in de chatbot meer menselijk ga maken, door middel van de reacties automatisch oordelend of kritisch laten overkomen. Dat ga ik doen door middel van onderzoek, programmeren en testen of het werkt en wat men verstaat onder en kritische/oordelende reactie.
 
 
-<video controls width="700">
- 
-</video>
