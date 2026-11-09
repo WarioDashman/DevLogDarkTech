@@ -1,4 +1,4 @@
 ## Devlogs
 
-- [Sprint 1](Sprint%201)
-- [Sprint 2](Sprint%202)
+- [Sprint 1](Sprint-01)
+- [Sprint 2](Sprint-02)
