@@ -16,12 +16,20 @@ De enige waar ik wel wat verbeteringen in wil brengen is de manier hoe ik te wer
 
 ### Flowchart gespreksvorm
 
-Voor het uitwerken van hoe de ervaring van het gesprek gaat verlopen, was het mijn taak om erachter te komen welke stappen de chatbot moet nemen in het gesprek. De onderwerpen per sessie mogen wel verschillend zijn, maar het heeft zijn limieten en over bepaalde onderwerpen, mag het zeker niet over hebben. dus heb ik een flowchart ontworpen, waarin iedere stap duidelijk is aangegeven en waarin staat wat het moet doen bij een andere situatie.
+Voor het uitwerken van hoe de ervaring van het gesprek gaat verlopen, was het mijn taak om erachter te komen welke stappen de chatbot moet nemen in het gesprek. De onderwerpen per sessie mogen wel verschillend zijn, maar het heeft zijn limieten en over bepaalde onderwerpen, mag het zeker niet over hebben. dus heb ik een flowchart ontworpen, waarin iedere stap duidelijk is aangegeven en waarin staat wat het moet doen bij een andere situatie. Zo is er ook een checklist waarin elke onderdeel van de profiel staat beschreven, zodat er geen herhaalvragen gaan komen, sinds het al informatie heeft verzameld over genoemde onderdeel 
 
 #### Wat ging er goed?
 
+De lijst zelf kon ik vrij snel af maken en het proces ervan ging persoonlijk wel soepel, omdat ik zelf had kunnen inbeelden hoe het zou gaan verlopen. Ook zat het in mijn achterhoofd dat het beter moet gaan uitpakken dan de vorige keer dat we het hadden uitgetest.
+
 #### Wat ging niet goed/kan beter
 
+Waar ik het meeste moeite mee had bij de flowchart was het uitvogelen welke onderwerpen de chatbot geen antwoorden op mag geven. Want je hebt de overduidelijke onderwerpen, zoals racisme en seksisme, maar ook over mentale issues, zoals zelfdoding enz. Waar het issue lag, is dat ik niet altijd goed wist welke onderwerpen nog meer verbannen moesten worden. 
 
+### Andere events
 
+Tot slot was ons team (inclusief ik) bezig geweest met een simpele field test om te zien wat de meningen waren van onze prototype, wat goed ging, en wat beter kan. In mijn test merkte ik wel dat het gesprek zelf nog niet echt soepel verlopen en dat de vragen zelf nog soms onduidelijk waren, waardoor er assistentie erbij moest komen
+
+## Conclusie en wat te doen voor volgende sprint
+Al en al was het een productieve sprint, waarbij veel op me afkwam, maar ondanks dat, ik nog steeds impactvolle resultaten heb kunnen leveren. de afgelopen sprints heb ik vooral ontworpen, maar in de laatste sprint ga ik me nu daadwerkelijk focussen op het realiseren van mijn onderdeel van de prototype. Dat doe ik door de code te schrijven die er voor zorgt, dat de microfoon aan/uit gaat met een druk op de knop. Daarnaast worden de prioriteiten die daarbij komen strak gezet en wordt er dagelijks een planning bijgehouden om in te zien of ik voor of achterloop op mijn dagelijkse schema.
 
