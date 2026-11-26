@@ -6,10 +6,10 @@ in deze ben ik verder gaan werken aan de gespreksflow voor de bot zelf en een ni
 
 De vorige sprint kreeg ik als feedback dat ik deze sprint iets technisch moet gaan doen. Daarom heb ik als taak opgenomen om de knop werkend te maken voor de microfoon. Hierbij heb ik een lijst van taken ontvangen, die gedaan moeten worden om het te volbrengen. ik ben er recent mee begonnen en heb ondertussen een design gemaakt voor de behuizing van de knop. De afmetingen heb ik berekend op basis van de afmetingen van de knop zelf, zoals diameter van de knop en de lengte ervan van kopstuk tot uiteinde. Met behulp van fusion maakte ik beetje bij beetje de box gemaakt, waarin de knop wordt geplaatst in de gat van de box zelf. aan de zij kant heb ik een opening toegevoegd, waarin de USB connector heb toegevoegd. 
 
-<img width="400" alt="Description of the picture" src="docs/images/Schermafbeelding 2026-11-23 110057.png" />
+<img width="400" alt="Description of the picture" src="images/Schermafbeelding 2026-11-23 110057.png" />
 
 
-<img width="400" alt="afbeelding" src="docs/images/20261125_152137.jpg" />
+<img width="400" alt="afbeelding" src="images/20261125_152137.jpg" />
 
 #### Wat ging er goed?
 
@@ -23,7 +23,7 @@ De enige waar ik wel wat verbeteringen in wil brengen is de manier hoe ik te wer
 
 Voor het uitwerken van hoe de ervaring van het gesprek gaat verlopen, was het mijn taak om erachter te komen welke stappen de chatbot moet nemen in het gesprek. De onderwerpen per sessie mogen wel verschillend zijn, maar het heeft zijn limieten en over bepaalde onderwerpen, mag het zeker niet over hebben. dus heb ik een flowchart ontworpen, waarin iedere stap duidelijk is aangegeven en waarin staat wat het moet doen bij een andere situatie. Zo is er ook een checklist waarin elke onderdeel van de profiel staat beschreven, zodat er geen herhaalvragen gaan komen, sinds het al informatie heeft verzameld over genoemde onderdeel.
 
-<img width="400" alt="Description of the picture" src= "docs/images/Schermafbeelding 2026-11-15 161155.png" />
+<img width="600" alt="Description of the picture" src= "images/Schermafbeelding 2026-11-15 161155.png" />
 
 #### Wat ging er goed?
 
@@ -40,3 +40,4 @@ Tot slot was ons team (inclusief ik) bezig geweest met een simpele field test om
 ## Conclusie en wat te doen voor volgende sprint
 Al en al was het een productieve sprint, waarbij veel op me afkwam, maar ondanks dat, ik nog steeds impactvolle resultaten heb kunnen leveren. de afgelopen sprints heb ik vooral ontworpen, maar in de laatste sprint ga ik me nu daadwerkelijk focussen op het realiseren van mijn onderdeel van de prototype. Dat doe ik door de code te schrijven die er voor zorgt, dat de microfoon aan/uit gaat met een druk op de knop. Daarnaast worden de prioriteiten die daarbij komen strak gezet en wordt er dagelijks een planning bijgehouden om in te zien of ik voor of achterloop op mijn dagelijkse schema.
 
+<img width="600" alt="Description of the picture" src= "images/Schermafbeelding 2026-11-26 084557.png" />
